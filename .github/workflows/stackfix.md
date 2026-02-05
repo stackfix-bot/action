@@ -152,7 +152,7 @@ ${{ inputs.issue }}
 6. **Create Pull Request**
    Use the `create_pull_request` tool with:
 
-   **Title**: "🤖 Fix: [Brief, clear description]"
+   **Title**: "[Brief, clear description]"
 
    **Body**:
    ```markdown
